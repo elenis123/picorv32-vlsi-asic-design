@@ -1,4 +1,4 @@
-# VLSI-ASIC Design Laboratory Project
+# VLSI-ASIC Design
 
 ## 📚 Course
 **Digital Integrated Circuits – VLSI-ASIC Design**  
